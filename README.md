@@ -1,0 +1,1 @@
+[![CI](https://github.com/antonstatut/ClearFunction/actions/workflows/main.yml/badge.svg)](https://github.com/antonstatut/ClearFunction/actions/workflows/main.yml)
